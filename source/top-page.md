@@ -5,8 +5,8 @@ tags: ["ポートフォリオ", "自分用見本"]
 excerpt: 色々置きます
 ---
 
-'''java
+```java
 for(int i = 0; i < 3; i++){
 System.out.println(i);
 }
-'''
+```
