@@ -38,9 +38,9 @@ excerpt: やりたいこと、目指すもののまとめページ
 ## IDE
 
  - eclipse
- >version 4.8.0 <br>
+ >version 4.8.0 
  
- >CDT/PyDev...入れたけどまだあまり使ってない<br>
+ >CDT/PyDev...入れたけどまだあまり使ってない
  
  >Scene Builder　
  
