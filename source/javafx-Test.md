@@ -7,6 +7,11 @@ tags: ["ポートフォリオ","JavaFX"]
  # JavaFX自分用見本を作る
 
  - SceneBuilder使用
+ [Screen](
+ - CheckBox 
+ - ChoiseBox
+ > eclipseでlistを追加
  
- 
+ - ColorPicker
+ - ButtonBar
 
