@@ -41,7 +41,7 @@ Linux-Mint愛用中
  version 4.8.0<br> 
  <br>
  CDT/PyDev...入れたけどまだあまり使ってない
- <br>
+
  Scene Builder　
  
 ## 今気になること
