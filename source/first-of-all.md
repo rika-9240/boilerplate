@@ -39,9 +39,7 @@ Linux-Mint愛用中
 
  - eclipse<br>
  version 4.8.0<br> 
- <br>
  CDT/PyDev...入れたけどまだあまり使ってない
-
  Scene Builder　
  
 ## 今気になること
