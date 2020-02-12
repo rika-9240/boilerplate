@@ -12,7 +12,7 @@ excerpt: やりたいこと、目指すもののまとめページ
 勉強中：JavaFX・セキュアコーディング
 
  - C<br>
- 本でのみ学習中...
+勉強中：ネットワークプログラミング
 
  - C#<br>
 一番最初に始めた言語...Javaを始めてからはあまりかかわりない
@@ -28,21 +28,21 @@ excerpt: やりたいこと、目指すもののまとめページ
 
 ## プログラミング界隈の気になること
 
- - セキュリティ
+ - セキュリティ<br>
 Javaでセキュリティ系の何かを作れないかと思案中
 
-- Linux
+- Linux<br>
 初めて知ったときは感動した<br>
 Linux-Mint愛用中
 
 ## IDE
 
- - eclipse
- >version 4.8.0 
- 
- >CDT/PyDev...入れたけどまだあまり使ってない
- 
- >Scene Builder　
+ - eclipse<br>
+ version 4.8.0<br> 
+ <br>
+ CDT/PyDev...入れたけどまだあまり使ってない
+ <br>
+ Scene Builder　
  
 ## 今気になること
  
