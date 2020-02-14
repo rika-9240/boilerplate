@@ -7,7 +7,7 @@ tags: ["ポートフォリオ","JavaFX"]
  # JavaFX自分用見本を作る
 
  - SceneBuilder使用
-<img src="/boilerplate/blog_JavaFX.png")
+<a href="url"><img src="/boilerplate/blog_JavaFX.png"></a>
  - CheckBox 
  - ChoiseBox
  
