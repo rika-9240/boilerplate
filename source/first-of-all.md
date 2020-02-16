@@ -53,7 +53,7 @@ Linux-Mint愛用中
  - visualstudio...最初C#の勉強で使った
  - Atom...よいと聞いたので試した...定着はしなかった
  - Android Studio...よいと思うもののあまり使わない
- - eclipse...愛用中...色々入れすぎて挙動が怪しいときがあるので仮想化で分けるか思案中...version 4.8.0+CDT/PyDev<br>
+ - eclipse...愛用中...色々入れすぎて挙動が怪しいときがあるので仮想化で分けるか思案中...version 4.8.0+CDT/PyDev..etc<br>
  - Scene Builder...JavaFXまとめ中...使えそうな画面をいくつか作って開発で愛用できるような自分用見本作り中
  - Brackets...HTML/CSS/JavaScript学習時愛用
  
