@@ -9,7 +9,7 @@ excerpt: やりたいこと、目指すもののまとめメインページ
 同タイトルのブログがありますが「やりたいこと、目指すものまとめメインページ」(このページ)が正しいページになります
 
 ## 今やっていること
- - JavaFXの自分用見本作ってgithubに置く-->[gitpress link](./javafx-Test)
+ - JavaFXの自分用見本作ってgithubに置く(全然進んでない）-->[gitpress link](./javafx-Test)
  - C言語のネットワークプログラミングの本で苦手なネット関連・サーバ関連でアプリ作る...作る時はJavaにして写すだけではないコーディングをする
  - ソフトウェア技術者の新人研修の本で仕事としての開発を一通りやってみる-->[gitpress link](./Development_Training)
  - やっていることをgithub/GitPressに残す
