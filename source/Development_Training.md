@@ -212,7 +212,7 @@ title: 新人研修の本に沿ってJavaで開発してみる///編集中
 データ構造・関係をER図やCRUD図で表し、処理に適したデータの構造を作りデータベースのテーブルの種類や構造の一覧表もここで作る<br>
 ER図：Entity Relationship/エンティティ(実体)に複数の属性(アトリビュート)を持たせて相互関係のリレーションシップ(関連)を表す図<br>
 CRUD図：操作実行時ER図のエンティティにどうアクセスが行われるかを表で表し、アクセスとしてC(Create/生成)・R(Refer/参照)・U(Update/更新)・D(Delete/削除)の4種で表す<br>
-
+<img src="https://github.com/rika-9240/boilerplate/blob/master/path/ER/CRUD.png?raw=true">
 
 ### システムインタフェース設計
 
