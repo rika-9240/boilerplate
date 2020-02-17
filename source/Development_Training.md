@@ -255,3 +255,9 @@ CRUD図：操作実行時ER図のエンティティにどうアクセスが行�
    ボタンをもう一度押すと文字が消える<br>
    
 <img src="https://github.com/rika-9240/boilerplate/blob/master/path/Screen_img.png?raw=true">
+
+5. システム構成
+
+6. システムインタフェース
+
+
