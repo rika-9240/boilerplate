@@ -216,7 +216,6 @@ title: 新人研修の本に沿ってJavaで開発してみる///編集中
 ER図：Entity Relationship/エンティティ(実体)に複数の属性(アトリビュート)を持たせて相互関係のリレーションシップ(関連)を表す図<br>
 CRUD図：操作実行時ER図のエンティティにどうアクセスが行われるかを表で表し、アクセスとしてC(Create/生成)・R(Refer/参照)・U(Update/更新)・D(Delete/削除)の4種で表す  
 ![crud](https://github.com/rika-9240/boilerplate/blob/master/path/ER/CRUD.png?raw=true)
-<img src="https://github.com/rika-9240/boilerplate/blob/master/path/ER/CRUD.png?raw=true">
 
 ### システムインタフェース設計
 
@@ -254,7 +253,8 @@ CRUD図：操作実行時ER図のエンティティにどうアクセスが行�
    入力のテキストに任意の文字を入力し、「表示する」のボタンを押下すると出力欄に文字を出力する<br>
    　　　　　　　　↓<br>
    ボタンをもう一度押すと文字が消える<br>
-   
+
+![screen_img](https://github.com/rika-9240/boilerplate/blob/master/path/Screen_img.png?raw=true)
 <img src="https://github.com/rika-9240/boilerplate/blob/master/path/Screen_img.png?raw=true">
 
 5. システム構成
