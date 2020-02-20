@@ -191,7 +191,6 @@ title: 新人研修の本に沿ってJavaで開発してみる///編集中
 ### 業務フローをDFDで作成
 
 ![dfd](https://github.com/rika-9240/boilerplate/blob/master/path/Untitled%20Diagram.png?raw=true)
-<a href="url"><img src="https://github.com/rika-9240/boilerplate/blob/master/path/Untitled%20Diagram.png?raw=true"></a>
 
 ### サブシステムへの分割...システムを分割して機能を定義して各設計書を作成する
 
@@ -203,6 +202,7 @@ title: 新人研修の本に沿ってJavaで開発してみる///編集中
 画面はディスプレイ表示の画面構成で情報表示と入力受付・入力を表示に反映させる・複数画面への遷移を適切に表すための部品配置入出力値タイプ・表示条件・初期値などの入出力項目・画面遷移順を示す画面遷移図・画面遷移や情報更新のイベント発生タイミングなど細かく記述する<br>
 
 <img src="https://github.com/rika-9240/boilerplate/blob/master/path/Screen%20layout.png?raw=true">
+![layout](https://github.com/rika-9240/boilerplate/blob/master/path/Screen%20layout.png?raw=true)
 
 ### コード設計
 
