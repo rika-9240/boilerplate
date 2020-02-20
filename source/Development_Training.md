@@ -255,7 +255,6 @@ CRUD図：操作実行時ER図のエンティティにどうアクセスが行�
    ボタンをもう一度押すと文字が消える<br>
 
 ![screen_img](https://github.com/rika-9240/boilerplate/blob/master/path/Screen_img.png?raw=true)
-<img src="https://github.com/rika-9240/boilerplate/blob/master/path/Screen_img.png?raw=true">
 
 5. システム構成
 
@@ -285,6 +284,7 @@ CRUD図：操作実行時ER図のエンティティにどうアクセスが行�
 ### 画面の詳細設計
 
 <img src="https://github.com/rika-9240/boilerplate/blob/master/path/Screen%20layout.png?raw=true">
+![screen_laout](https://github.com/rika-9240/boilerplate/blob/master/path/Screen%20layout.png?raw=true)
 ...追加すべき項目がみつからないのでこのまま
 
 ### 帳票の詳細設計
