@@ -190,6 +190,7 @@ title: 新人研修の本に沿ってJavaで開発してみる///編集中
 
 ### 業務フローをDFDで作成
 
+![dfd](https://github.com/rika-9240/boilerplate/blob/master/path/Untitled%20Diagram.png?raw=true)
 <a href="url"><img src="https://github.com/rika-9240/boilerplate/blob/master/path/Untitled%20Diagram.png?raw=true"></a>
 
 ### サブシステムへの分割...システムを分割して機能を定義して各設計書を作成する
