@@ -283,7 +283,6 @@ CRUD図：操作実行時ER図のエンティティにどうアクセスが行�
 
 ### 画面の詳細設計
 
-<img src="https://github.com/rika-9240/boilerplate/blob/master/path/Screen%20layout.png?raw=true">
 ![screen_laout](https://github.com/rika-9240/boilerplate/blob/master/path/Screen%20layout.png?raw=true)
 ...追加すべき項目がみつからないのでこのまま
 
