@@ -201,7 +201,6 @@ title: 新人研修の本に沿ってJavaで開発してみる///編集中
 帳票はプリントアウトする用紙の構成で帳票デザイン・各項目の表示内容・表示桁数・表示するデータのタイプ・項目の必須/任意の記述<br>
 画面はディスプレイ表示の画面構成で情報表示と入力受付・入力を表示に反映させる・複数画面への遷移を適切に表すための部品配置入出力値タイプ・表示条件・初期値などの入出力項目・画面遷移順を示す画面遷移図・画面遷移や情報更新のイベント発生タイミングなど細かく記述する<br>
 
-<img src="https://github.com/rika-9240/boilerplate/blob/master/path/Screen%20layout.png?raw=true">
 ![layout](https://github.com/rika-9240/boilerplate/blob/master/path/Screen%20layout.png?raw=true)
 
 ### コード設計
@@ -215,7 +214,8 @@ title: 新人研修の本に沿ってJavaで開発してみる///編集中
 保持データや関連データベース構造の定義をする<br>
 データ構造・関係をER図やCRUD図で表し、処理に適したデータの構造を作りデータベースのテーブルの種類や構造の一覧表もここで作る<br>
 ER図：Entity Relationship/エンティティ(実体)に複数の属性(アトリビュート)を持たせて相互関係のリレーションシップ(関連)を表す図<br>
-CRUD図：操作実行時ER図のエンティティにどうアクセスが行われるかを表で表し、アクセスとしてC(Create/生成)・R(Refer/参照)・U(Update/更新)・D(Delete/削除)の4種で表す<br>
+CRUD図：操作実行時ER図のエンティティにどうアクセスが行われるかを表で表し、アクセスとしてC(Create/生成)・R(Refer/参照)・U(Update/更新)・D(Delete/削除)の4種で表す  
+![crud](https://github.com/rika-9240/boilerplate/blob/master/path/ER/CRUD.png?raw=true)
 <img src="https://github.com/rika-9240/boilerplate/blob/master/path/ER/CRUD.png?raw=true">
 
 ### システムインタフェース設計
