@@ -301,6 +301,7 @@ CRUD図：操作実行時ER図のエンティティにどうアクセスが行�
 ![](https://github.com/rika-9240/boilerplate/blob/master/path/Business%20rules.png?raw=true)
 
 ### リクエスト処理の詳細設計
+本来は外部設計で決めるところもあるがビジネスルールを決めた後に定義することなので今回は内部設計とする
 
 
 ### メッセージの詳細設計
