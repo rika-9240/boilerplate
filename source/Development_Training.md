@@ -355,6 +355,16 @@ CRUD図：操作実行時ER図のエンティティにどうアクセスが行�
 3.3モジュールの処理フロー
   
 ![](https://github.com/rika-9240/boilerplate/blob/master/path/Business%20rules.png?raw=true)
+右を参照          図１　入出力表示モジュールの処理フロー
+
+3.4モジュールインタフェース
+
+    (1)入出力表示モジュール
+    　　
+      - メソッド名　input_screen
+      - 引数        なし
+      - 戻り値      なし
+      
 
 ---
 
