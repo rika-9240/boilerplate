@@ -365,10 +365,12 @@ CRUD図：操作実行時ER図のエンティティにどうアクセスが行�
       - 引数        なし  
       - 戻り値      なし  
 
-4 メッセージ
+4. メッセージ
 
 　　テキストの入出力システムの表示メッセージは次のとおりである。
 ![message definition](https://github.com/rika-9240/boilerplate/blob/master/path/Message%20definition%20form.png?raw=true)
+
+5.　システムインタフェース・ネットワーク構造...割愛
 
 ---
 
