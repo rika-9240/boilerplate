@@ -397,6 +397,8 @@ CRUD図：操作実行時ER図のエンティティにどうアクセスが行�
 先にこちらをやるべきだった。`
 
 ![ver1.0](https://github.com/rika-9240/boilerplate/blob/master/path/I-O.Screen_eclipse%20ver1.0PNG.PNG?raw=true)
+
+[Eclipseで作った成果物](https://github.com/rika-9240/Java_I-O_Screen_eclipse/tree/master)
  
  
 ## 自分用メモ...作成にあたり他サイトを巡回して気になったこと
