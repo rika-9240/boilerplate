@@ -391,7 +391,7 @@ CRUD図：操作実行時ER図のエンティティにどうアクセスが行�
    - 同じコードを二度書かない
    - 役割は一つに
    
-## 製造
+## 5.製造とテスト
 
 `反省：gitpodで作ってみたくなってしまってやってみたものの慣れるのに時間がかかりそうで一旦保留にした・当初の予定のEclipseで作った。
 先にこちらをやるべきだった。`
@@ -399,6 +399,11 @@ CRUD図：操作実行時ER図のエンティティにどうアクセスが行�
 ![ver1.0](https://github.com/rika-9240/boilerplate/blob/master/path/I-O.Screen_eclipse%20ver1.0PNG.PNG?raw=true)
 
 [Eclipseで作った成果物](https://github.com/rika-9240/Java_I-O_Screen_eclipse/tree/master)
+
+### テスト
+
+ - 単体テスト...ホワイトボックステスト
+ - 結合テスト...ブラックボックステスト
  
  
 ## 自分用メモ...作成にあたり他サイトを巡回して気になったこと
