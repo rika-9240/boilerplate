@@ -11,7 +11,8 @@ excerpt: やりたいこと、目指すもののまとめメインページ
 ## 今やっていること
  - JavaFXの自分用見本作ってgithubに置く(全然進んでない）-->[gitpress link](./javafx-Test)
  - C言語のネットワークプログラミングの本で苦手なネット関連・サーバ関連でアプリ作る...作る時はJavaにして写すだけではないコーディングをする
- - ソフトウェア技術者の新人研修の本で仕事としての開発を一通りやってみる-->[gitpress link](./Development_Training)
+ - ソフトウェア技術者の新人研修の本で仕事としての開発を一通りやってみる-->[gitpress link](./Development_Training)  
+   開発したもの-->[Java I/O.Screen_Eclipse](https://github.com/rika-9240/Java_I-O_Screen_eclipse/tree/master)
  - やっていることをgithub/GitPressに残す
 
 ## 目指すもの
