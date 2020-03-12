@@ -400,7 +400,8 @@ CRUD図：操作実行時ER図のエンティティにどうアクセスが行�
 ![ver1.0](https://github.com/rika-9240/boilerplate/blob/master/path/I-O.Screen_eclipse%20ver1.0PNG.PNG?raw=true)
 
 [Eclipseで作った成果物](https://github.com/rika-9240/Java_I-O_Screen_eclipse/tree/master)  
-アラートメッセージの実装、忘れてた。
+アラートメッセージの実装、忘れてた。  
+[アラート実装したIntelliJで作った成果物](https://github.com/rika-9240/Java_I_O_Screen_IntelliJ/tree/master/src/sample)
 
 ### テスト
 
