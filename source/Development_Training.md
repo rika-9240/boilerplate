@@ -405,9 +405,12 @@ CRUD図：操作実行時ER図のエンティティにどうアクセスが行�
 
 ### テスト
 
- - 単体テスト...ホワイトボックステスト ~~EclipseのJunit4で行う 
  予定変更...Javafxをこれから使うならeclipseよりIntelliJのほうが良い  
  ecliseからIntellIjにIDEを変更
+ 
+ - 単体テスト...ホワイトボックステスト ~~EclipseのJunit4で行う    
+ IntelliJでJunit5で行う
+ ![単体テスト対象プログラムフローチャート]()
  
  
  
