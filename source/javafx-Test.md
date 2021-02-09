@@ -1,5 +1,5 @@
 ---
-title: JavaFXを使いこなしたい
+title: JavaFXを使いこなしたい//停滞中
 date: 2020-02-08
 tags: ["ポートフォリオ","JavaFX"]
 ---
