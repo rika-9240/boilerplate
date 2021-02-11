@@ -5,7 +5,7 @@ date: 2021-02-11
 
 ## Gitpressのソースファイル
  - markdownのフォーマットが適応されない？
- -> ファイル名の拡張子の指定を忘れていた<br>
-  × fileName 
+ > ファイル名の拡張子の指定を忘れていた<br>
+  × fileName <br>
   ○ fileName.md
 
