@@ -36,11 +36,11 @@ gcc 8.1.0 (c11 / c++14)
  MySQL Windows/Linuxで構築
 
 ## OS
-Windows 10 Home1909 (メインパソコン　ホスト）
-Linux-mint（サブパソコン）
-Linux CentOS7 (メインパソコン　ゲスト)
-Linux kali 2020.4 (メインパソコン　ゲスト)
- - VirtualBox(6.1.14)
+ - Windows 10 Home1909 (メインパソコン　ホスト）
+ - Linux-mint（サブパソコン）
+ - Linux CentOS7 (メインパソコン　ゲスト)
+ - Linux kali 2020.4 (メインパソコン　ゲスト)
+   - VirtualBox(6.1.14)
 
 ## プログラミング界隈の気になること
 
