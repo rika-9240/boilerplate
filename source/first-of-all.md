@@ -7,14 +7,13 @@ excerpt: やりたいこと、目指すもののまとめメインページ
 
 ## 今やっていること
  - ソフトウェア技術者の新人研修の本で仕事としての開発を一通りやってみる-->[gitpress link](./Development_Training)  
-   開発したもの-->[Java I/O.Screen_Eclipse](https://github.com/rika-9240/Java_I-O_Screen_eclipse/tree/master)
+   試したもの-->[Java I/O.Screen_Eclipse](https://github.com/rika-9240/Java_I-O_Screen_eclipse/tree/master)
  - やっていることをgithub/GitPressに残す
 
 ## 思案中　Ｊａｖａでできるものを作る
   - アプリケーション・ソフトウェア開発
   - ソフトウェア開発
   - 組込みシステム開発
-  - ＯＳを作る
 
 ## 目指すもの
  - 新しいものを作る
@@ -26,17 +25,12 @@ excerpt: やりたいこと、目指すもののまとめメインページ
 
  - Java  
 `一番コーディングしてる`  
-勉強中：サーバ構築・セキュアコーディング  
-触ったことある：Servlet/JSP Tomcat...学ぶ機会があったけどわからないことが多々あったので解消すべく今別の角度でネットワーク勉強中
 
  - C言語  
 勉強中：マイコン
 
  - C#  
 一番最初に始めた言語...Javaを始めてからはあまりかかわりない
-
- - Python3  
-コーディングはしてない/時間見つけて数学の勉強と機械学習やる
 
  - SQL  
  MySQL構築できる
