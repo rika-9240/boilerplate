@@ -11,7 +11,7 @@ excerpt:まとめページ
  - やっていることをgithub/GitPressに残す
 
 ## 思案中　できるものを作る
-  - それぞれの言語で計算 --> [C -](https://github.com/rika-9240/C-)
+  - それぞれの言語で計算 [gitpress link](./C%20Keisanki)--> [C -](https://github.com/rika-9240/C-)
   - パソコンシステム自分専用の便利コマンド
   - 家計簿（コマンドプロンプト/ターミナルで表が表示されるようなの)
 
