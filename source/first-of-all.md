@@ -5,7 +5,7 @@ tags: ["ポートフォリオ", "まとめ"]
 excerpt:まとめページ
 ---
 ## 作成中
-  - それぞれの言語で計算 [gitpress link](./C%20Keisanki)--> [C -](https://github.com/rika-9240/C-)
+  - それぞれの言語で計算 [gitpress link](./C%20Keisanki)
   - パソコンシステム自分専用の便利コマンド
   - 家計簿（コマンドプロンプト/ターミナルで表が表示されるようなの)
 
