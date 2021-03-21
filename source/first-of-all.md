@@ -45,5 +45,5 @@ VScode　1.54.3　拡張機能C# 1.23.9
 
 ## 解決策探し中
 
- > mysqlがWindowsにインストールできなくなった
+ > mysqlにWindowsでアクセスできない
  
