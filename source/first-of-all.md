@@ -11,7 +11,7 @@ excerpt:まとめページ
   - 家計簿（コマンドプロンプト/ターミナルで表が表示されるようなの)
   - ソフトウェア技術者の新人研修の本で仕事としての開発を一通りやってみる-->[gitpress link](./Development_Training)  
    試したもの-->[Java I/O.Screen_Eclipse](https://github.com/rika-9240/Java_I-O_Screen_eclipse/tree/master)
-  - 私のタイマー/ストップウォッチ
+  - 私のタイマー/ストップウォッチ-->[gitpress link](./MyStopwatch)
   - Windowsアプリケーションでメモ帳
 
 
