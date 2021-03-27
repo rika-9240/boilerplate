@@ -5,11 +5,13 @@ tags: ["ポートフォリオ", "まとめ"]
 excerpt:まとめページ
 ---
 ## やってい見たこと/作成中
-  - それぞれの言語で計算 [gitpress link](./C%20Keisanki)
+  - C言語で計算 [gitpress link](./C%20Keisanki)
   - パソコンシステム自分専用の便利コマンド
   - 家計簿（コマンドプロンプト/ターミナルで表が表示されるようなの)
   - ソフトウェア技術者の新人研修の本で仕事としての開発を一通りやってみる-->[gitpress link](./Development_Training)  
    試したもの-->[Java I/O.Screen_Eclipse](https://github.com/rika-9240/Java_I-O_Screen_eclipse/tree/master)
+  - 私のタイマー/ストップウォッチ
+  - Windowsアプリケーションでメモ帳
 
 
 ## 使ってきたもの
