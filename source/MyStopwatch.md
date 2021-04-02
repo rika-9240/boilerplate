@@ -1,5 +1,5 @@
 # 自分用の作業ストップウォッチを作る
-   ｿｰｽ--> [gitpress link](https://github.com/rika-9240/WrapLauncher)
+   ｿｰｽ--> [gitpress link](https://github.com/rika-9240/Timmer20210402)
 
  ## 音ﾌｧｲﾙを時間で鳴らしたり止めたりする
  ## デフォルトとして1分後に音が鳴るタイマーがある
