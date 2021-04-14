@@ -69,5 +69,7 @@ date: 2021-04-14
 
  ## CentOS7のソフトウェア選択デフォルト
     ![CentOS](https://github.com/rika-9240/boilerplate/blob/master\path\Linux\CentOS7cui.png?raw=true)
+
+   * デフォルト以外もその内乗せる
    
 
