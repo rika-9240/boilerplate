@@ -9,7 +9,7 @@ excerpt: まとめページ
   - C言語で計算 [link](./C%20Keisanki)
   - パソコンシステム自分専用の便利コマンド
   - 家計簿（コマンドプロンプト/ターミナルで表が表示されるようなの)
-  - ソフトウェア技術者の新人研修の本で仕事としての開発を一通りやってみる-->[link](./Development_Training)  
+  - [新人研修の本に沿ってJavaで開発してみる](./Development_Training)  
     作った簡易ｱﾌﾟﾘ -->[Java_Eclipse_link](https://github.com/rika-9240/Java_I-O_Screen_eclipse/tree/master)
   - 私のタイマー/ストップウォッチ-->[link](./MyStopwatch)
   - Windowsアプリケーションでメモ帳
