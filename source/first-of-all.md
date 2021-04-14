@@ -13,7 +13,9 @@ excerpt: まとめページ
     作った簡易ｱﾌﾟﾘ -->[Java_Eclipse_link](https://github.com/rika-9240/Java_I-O_Screen_eclipse/tree/master)
   - 私のタイマー/ストップウォッチ-->[link](./MyStopwatch)
   - Windowsアプリケーションでメモ帳
-  - Linux
+  - LinuxOS構築MEMOまとめ
+  - LinuxのコマンドMEMOまとめ
+  - Linuxでサーバ構築MEMOまとめ
 
 
 ## 使ってきたもの
