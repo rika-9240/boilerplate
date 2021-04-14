@@ -10,6 +10,6 @@ date: 2021-02-11
   ○ fileName.md
 
 ## Gitpressのpng表示
- - 「！［＊＊＊］（../path/***)
- * linkと混合して相対パスにしてた
+ - 「！［＊＊＊］（../path/***)」
+ * linkと混合して相対パスにしてた<br>
  正しくは-->「！［＊＊＊］（https://github.com/rika-9240/boilerplate/blob/master\path\＊＊＊.png?raw=true）」
