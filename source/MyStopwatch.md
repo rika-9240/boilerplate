@@ -1,6 +1,7 @@
 # 自分用の作業ストップウォッチを作る
-   ｿｰｽ--> [gitpress link](https://github.com/rika-9240/TimerF20210403)
-   * 流れ
+   [ｿｰｽ](https://github.com/rika-9240/TimerF20210403)
+   * 設計
+    ![timer.drawio](https://github.com/rika-9240/boilerplate/blob/master\source\timer.drawio.png?raw=true)
    　
 
    * start/stop
