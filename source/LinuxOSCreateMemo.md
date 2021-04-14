@@ -63,7 +63,11 @@ date: 2021-04-14
    * インストール中にユーザ設定<br>
      ROOT パスワード（R)-->****test<br>
      ユーザの作成（U)-->rika user****test<br>
-     ...セットアップ作業待ち
+     ...セットアップ作業待ち<br>
+   * CentOS が正しくインストールされ。。。と出たら再起動をクリック<br>
+   再びcui画面...localhost login:と出たらさっき設定したユーザ/パスワードを入力...
+
  ## CentOS7のソフトウェア選択デフォルト
-    
+    ![CentOS](https://github.com/rika-9240/boilerplate/blob/master\path\Linux\CentOS7cui.png?raw=true)
+   
 
