@@ -6,14 +6,14 @@ excerpt: まとめページ
 ---
 ## やって見たこと/作成中
 
-  - C言語で計算 [link](./C%20Keisanki)
+  - [C言語で計算](./C%20Keisanki)
   - パソコンシステム自分専用の便利コマンド
   - 家計簿（コマンドプロンプト/ターミナルで表が表示されるようなの)
   - [新人研修の本に沿ってJavaで開発してみる](./Development_Training)  
     作った簡易ｱﾌﾟﾘ -->[Java_Eclipse_link](https://github.com/rika-9240/Java_I-O_Screen_eclipse/tree/master)
-  - 私のタイマー/ストップウォッチ-->[link](./MyStopwatch)
+  - [私のタイマー/ストップウォッチ](./MyStopwatch)
   - Windowsアプリケーションでメモ帳
-  - LinuxOS構築MEMOまとめ -->[ViertualBox上でのLinuxOS構築自分用メモ](./LinuxOSCreateMemo)
+  - [ViertualBox上でのLinuxOS構築自分用メモ](./LinuxOSCreateMemo)
   - LinuxのコマンドMEMOまとめ
   - Linuxでサーバ構築MEMOまとめ
 
