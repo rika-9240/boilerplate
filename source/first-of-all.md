@@ -10,9 +10,10 @@ excerpt: まとめページ
   - パソコンシステム自分専用の便利コマンド
   - 家計簿（コマンドプロンプト/ターミナルで表が表示されるようなの)
   - ソフトウェア技術者の新人研修の本で仕事としての開発を一通りやってみる-->[link](./Development_Training)  
-   試したもの-->[Java_Eclipse_link](https://github.com/rika-9240/Java_I-O_Screen_eclipse/tree/master)
+    作った簡易ｱﾌﾟﾘ -->[Java_Eclipse_link](https://github.com/rika-9240/Java_I-O_Screen_eclipse/tree/master)
   - 私のタイマー/ストップウォッチ-->[link](./MyStopwatch)
   - Windowsアプリケーションでメモ帳
+  - Linux
 
 
 ## 使ってきたもの
