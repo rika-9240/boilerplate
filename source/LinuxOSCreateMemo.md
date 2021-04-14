@@ -47,7 +47,7 @@ date: 2021-04-14
     --> 設定のストレージからisoﾌｧｲﾙ指定<br>
     --> 起動<br>
    　![start up](https://github.com/rika-9240/boilerplate/blob/master\path\Linux\startUp.png?raw=true)
-    ...isoﾌｧｲﾙここで指定で来たっぽい<br>
+    ...isoﾌｧｲﾙここで指定できたっぽい<br>
     isoﾌｧｲﾙ指定して起動<br>
     ※ここで仮想画面にカーソルを合わせてしまうと仮想のcui画面からカーソルが出られなくなる<br>
     その時は　右のCtrl　でホストOSに戻ります。
@@ -58,11 +58,11 @@ date: 2021-04-14
    * !マークのある　システム/インストール先（D)を設定
     ![setUp](https://github.com/rika-9240/boilerplate/blob/master\path\Linux\setUp.png?raw=true)
     今回はテストなのでデフォルトで完了
-   * ソフトウェアの選択（！ここがLinuxの醍醐味だと思う）
+   * ソフトウェアの選択（！ここがLinuxの醍醐味だと思う　！）<br>
     今回は最小限のインストールを選択(デフォルト)<br>
-   * インストール中にユーザ設定
-     ROOT パスワード（R)-->****test
-     ユーザの作成（U)-->rika user****test
+   * インストール中にユーザ設定<br>
+     ROOT パスワード（R)-->****test<br>
+     ユーザの作成（U)-->rika user****test<br>
      ...セットアップ作業待ち
  ## CentOS7のソフトウェア選択デフォルト
     
