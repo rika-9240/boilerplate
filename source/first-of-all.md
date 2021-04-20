@@ -16,6 +16,8 @@ excerpt: まとめページ
   - [ViertualBox上でのLinuxOS構築自分用メモ](./LinuxOSCreateMemo)
   - LinuxのコマンドMEMOまとめ
   - Linuxでサーバ構築MEMOまとめ
+  - 職業訓練のグループワークでJava・Tomcat・MySQLを使ったケーキショップのウェブサイト
+  - 職業訓練のグループワークでC#・CSVを使ったイベント参加者情報管理システムの構築
 
 
 ## 使ってきたもの
