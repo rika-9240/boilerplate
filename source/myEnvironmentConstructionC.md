@@ -38,7 +38,7 @@ excerpt: 自分用メモ
   <br>
   ## ライブラリ
   - 算術ライブラリとリンク　<br>
-    >gcc fileName.c -m<br>
+    \>gcc fileName.c -m<br>
     (#include <math.h>のsin(),cos()等関数)<br>
     >gcc -lstdc++ -o fileName fileName.cpp<br>
     (Einclude <iostream>のstd::cout,std::endl,oerride<<演算子)<br>
