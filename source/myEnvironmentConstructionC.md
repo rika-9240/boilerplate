@@ -24,7 +24,7 @@ excerpt: 自分用メモ
     使い方　>io-m fileName<br>
   - 試したｃﾌｧｲﾙ・exeﾌｧｲﾙをｃＢｏｘﾌｫﾙﾀﾞに自作batコマンドで移動<br>
     m.bat<br>
-    中身　move %1.* cBox
+    中身　move %1.* cBox<br>
     使い方　>m fileName
 # コマンド
   ## コマンドプロンプトを立ち上げたらまず移動
@@ -35,7 +35,6 @@ excerpt: 自分用メモ
   - C言語のコンパイル　>gcc<br>
   - C++のコンパイル　>g++<br>
   - 実行ファイル名付き　>gcc fileName.c -o exeName.exe<br>
-  <br>
   ## ライブラリ
   - 算術ライブラリとリンク　<br>
     \>gcc fileName.c -m<br>
