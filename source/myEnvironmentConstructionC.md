@@ -39,9 +39,8 @@ excerpt: 自分用メモ
   - 算術ライブラリとリンク　<br>
     \>gcc fileName.c -m<br>
     (#include <math.h>のsin(),cos()等関数)<br>
-    >\gcc -lstdc++ -o fileName fileName.cpp<br>
-    (Einclude <iostream>のstd::cout,std::endl,oerride<<演算子)<br>
-  <br>
+    \>gcc -lstdc++ -o fileName fileName.cpp<br>
+    (#include <iostream>のstd::cout,std::endl,oerride<<演算子)<br>
   - ライブラリリンク不要関数・Memo<br>
     <stdio.h>(sprintf(boxStr,"%s%s%d",str1,str2,intI)<br>
     ※printfで表示する場合sprintfで既に表示できる状態なので<br>
