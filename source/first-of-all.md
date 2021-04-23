@@ -8,6 +8,7 @@ excerpt: まとめページ
 
   - [C言語で計算](./C%20Keisanki)
   - パソコンシステム自分専用の便利コマンド
+    - [C言語学習環境](./myEnvironmentConstructionC) 
   - 家計簿（コマンドプロンプト/ターミナルで表が表示されるようなの)
   - [新人研修の本に沿ってJavaで開発してみる](./Development_Training)  
     作った簡易ｱﾌﾟﾘ -->[Java_Eclipse_link](https://github.com/rika-9240/Java_I-O_Screen_eclipse/tree/master)
@@ -19,6 +20,7 @@ excerpt: まとめページ
   - 職業訓練のグループワークでJava・Tomcat・MySQLを使ったケーキショップのウェブサイト
   - 職業訓練のグループワークでC#・CSVを使ったイベント参加者情報管理システムの構築
   - 自分用のやってきたことの技術メモをGitPressに作る
+    - 実績の中で今後も使いそう・メモしておきたい技術・情報をまとめるページを作る
 
 
 ## 使ってきたもの
