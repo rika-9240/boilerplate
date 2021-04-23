@@ -13,11 +13,11 @@ excerpt: 自分用メモ
   設定/システム/詳細情報（右）/システムの詳細設定/システムのプロパティ/環境変数（N)のシステム環境変数の「Path」にF:\myGcc\mingw32\binを追加（F:はエクスプローラーで確認する)<br>
   - printf表示の文字化け対策<br>
     - コマンドプロンプトの設定を変更する場合<br>
-    >chcp 65001 //UTF-8モード<br>
-    >chcp 932 //SHIFT-JISモード（デフォルト）<br>
+    \>chcp 65001 //UTF-8モード<br>
+    \>chcp 932 //SHIFT-JISモード（デフォルト）<br>
     ※chcp.comFileはC:\Windows\system32にある（なきゃ探して）のでここにPathが通ってる必要がある
     - 入出力使用時SHIFT-JISモードでコンパイラ<br>
-    >gcc -fexec-charet=CP932 -o fileName fileName.c<br>
+    \>gcc -fexec-charet=CP932 -o fileName fileName.c<br>
     面倒なのでバッチファイル作る<br>
     io-m.bat<br>
     中身　gcc -fexec-charset=CP932 -o %1 %1.c<br>
@@ -28,8 +28,8 @@ excerpt: 自分用メモ
     使い方　>m fileName
 # コマンド
   ## コマンドプロンプトを立ち上げたらまず移動
-  - >f: //USBのドライブに移動<br>
-  - >cd ~mingw32/bin //ｇｃｃのmingw32/binへ移動<br>
+  - \>f: //USBのドライブに移動<br>
+  - \>cd ~mingw32/bin //ｇｃｃのmingw32/binへ移動<br>
   ※ここでメモ帳を使ってソースを保存＋コンパイルしていく<br>
   ## コンパイル
   - C言語のコンパイル　>gcc<br>
@@ -40,7 +40,7 @@ excerpt: 自分用メモ
   - 算術ライブラリとリンク　<br>
     \>gcc fileName.c -m<br>
     (#include <math.h>のsin(),cos()等関数)<br>
-    >gcc -lstdc++ -o fileName fileName.cpp<br>
+    >\gcc -lstdc++ -o fileName fileName.cpp<br>
     (Einclude <iostream>のstd::cout,std::endl,oerride<<演算子)<br>
   <br>
   - ライブラリリンク不要関数・Memo<br>
