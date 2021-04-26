@@ -6,17 +6,16 @@ excerpt: まとめページ
 ---
 ## やって見たこと/作成中
 
-  - [C言語で計算](./C%20Keisanki)
-  - パソコンシステム自分専用の便利コマンド
+  - C言語学習で自分専用の便利バッチ作った
     - [C言語学習環境](./myEnvironmentConstructionC) 
   - 家計簿（コマンドプロンプト/ターミナルで表が表示されるようなの)
+    - ViertualBoxのゲストOSにSQLサーバ構築してホストOSから使う
   - [新人研修の本に沿ってJavaで開発してみる](./Development_Training)  
     作った簡易ｱﾌﾟﾘ -->[Java_Eclipse_link](https://github.com/rika-9240/Java_I-O_Screen_eclipse/tree/master)
   - [私のタイマー/ストップウォッチ](./MyStopwatch)
   - Windowsアプリケーションでメモ帳
   - [ViertualBox上でのLinuxOS構築自分用メモ](./LinuxOSCreateMemo)
   - LinuxのコマンドMEMOまとめ
-  - Linuxでサーバ構築MEMOまとめ
   - 職業訓練のグループワークでJava・Tomcat・MySQLを使ったケーキショップのウェブサイト
   - 職業訓練のグループワークでC#・CSVを使ったイベント参加者情報管理システムの構築
   - 自分用のやってきたことの技術メモをGitPressに作る
@@ -40,7 +39,7 @@ VScode　1.54.3　拡張機能C# 1.23.9
 
 ### DB
  - SQL  
- MySQL Windows/Linuxで構築
+ MySQL Windows/Linux（CUI）で構築
 
 ### OS
  - Windows 10 Home1909 (メインパソコン　ホスト）
