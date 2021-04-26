@@ -36,7 +36,12 @@ date: 2021-04-26
     $ getenforce
     Disabled
     ```
-    - 
+    - systemctlをtabキー補完で使えるようにする
+    ```
+    # yum install bash-completion
+    ```
+    Error出た
+    ネットワーク接続が確立してない模様
   ## 参考サイト
   https://www.rem-system.com/centos-install/
   https://www.rem-system.com/linux-first-setting/
