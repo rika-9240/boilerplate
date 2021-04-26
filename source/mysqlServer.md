@@ -23,19 +23,16 @@ date: 2021-04-26
     ```
     vi で /etc/selinux/config を編集<br>
     ```
-
     SELINUXTYPE=enforcing
     編集
     SELINUXTYPE=disabled
     ```
     サーバ再起動<br>
     ```
-
     $ reboot
     ```
     確認<br>
     ```
-
     $ getenforce
     Disabled
     ```
