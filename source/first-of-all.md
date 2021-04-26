@@ -14,7 +14,8 @@ excerpt: まとめページ
     作った簡易ｱﾌﾟﾘ -->[Java_Eclipse_link](https://github.com/rika-9240/Java_I-O_Screen_eclipse/tree/master)
   - [私のタイマー/ストップウォッチ](./MyStopwatch)
   - Windowsアプリケーションでメモ帳
-  - [ViertualBox上でのLinuxOS構築自分用メモ](./LinuxOSCreateMemo)
+  - [VirtualBox上でのLinuxOS構築自分用メモ](./LinuxOSCreateMemo)
+  - [VirtualBox上でMySQLサーバ構築](./mysqlServer)
   - LinuxのコマンドMEMOまとめ
   - 職業訓練のグループワークでJava・Tomcat・MySQLを使ったケーキショップのウェブサイト
   - 職業訓練のグループワークでC#・CSVを使ったイベント参加者情報管理システムの構築
