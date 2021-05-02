@@ -41,7 +41,62 @@ date: 2021-04-26
     # yum install bash-completion
     ```
     Error出た
+    [error](https://github.com/rika-9240/boilerplate/blob/master\path\20210426ServerRen\installEror2021-04-26 183632.png)
     ネットワーク接続が確立してない模様
+
+    # ネットワーク接続の確認
+    ```
+    # nmcli device status
+    DEVICE TYPE     STATE        CONNECTION
+    enp0s3 ethernet disconnected --
+    lo     loopback unmanaged    --
+    ```
+    enp0s3をconnected にする
+    ```
+    # nmcli connection up enp0s3
+    Connection successfully activated (....)
+    ```
+    もう一度確認
+    ```
+    # nmcli device status
+    DEVICE TYPE     STATE        CONNECTION
+    enp0s3 ethernet connected    enp0s3
+    lo     loopback unmanaged    --
+    ```
+    さらに詳しく確認
+    ```
+    # nmcli con show enp0s3
+    ...
+    connection.autoconnect:    no
+    ...
+    ```
+    これだと再起動で元に戻るので
+    ```
+    # nmcli con mod enp0s3 connection.autoconnect "yes"
+    ```
+    connection.autoconnect:    yes を確認
+    これで起動事に自動で接続する
+
+    この設定を反映させるためにネットワークインターフェイスを再起動
+    ```
+    # nmcli device disconnect enp0s3
+    # nmcli device connect enp0s3
+    ```
+    そもそもアダプターを足し忘れてたことに気づいた
+    一度ゲストの電源オフ
+    VirtualBoxマネージャーのネットワークから
+    アダプター１をNAT
+    アダプター２をホストオンリーアダプターに設定
+
+    これで繋がった！
+    - ネット繋がったのでsystemctlをtabキー補完で使えるようにする
+    ```
+    # yum install bash-completion
+    ```
+
+
+    
+
   ## 参考サイト
   https://www.rem-system.com/centos-install/
   https://www.rem-system.com/linux-first-setting/
