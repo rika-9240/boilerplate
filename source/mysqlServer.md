@@ -41,7 +41,7 @@ date: 2021-04-26
     # yum install bash-completion
     ```
     Error出た
-    [error](https://github.com/rika-9240/boilerplate/blob/master\path\20210426ServerRen\installError.png)
+    ![error](https://github.com/rika-9240/boilerplate/blob/master\path\20210426ServerRen\installError.png)
     ネットワーク接続が確立してない模様
 
     # ネットワーク接続の確認
