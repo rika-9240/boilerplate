@@ -93,6 +93,7 @@ date: 2021-04-26
     ```
     # yum install bash-completion
     ```
+    ![bash-completion](https://github.com/rika-9240/boilerplate/blob/master\path\20210426ServerRen\bash-completionInstalled.png?raw=true)
 
 
     
